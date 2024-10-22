@@ -1,36 +1,35 @@
 [
     {
-        "title": "Pulp Fiction",
-        "rating": 8.8,
+        "title": "El hoyo 2",
+        "rating": 9.4,
         "tags": ["thriller", "crimen", "drama"],
-        "year": 1994
+        "year": 2024
     }, 
     {
-        "title": "Batman: El caballero de la noche ",
+        "title": "Beetlejuice 2 ",
         "rating": 9,
         "tags": ["drama", "accion" , "crimen"],
-        "year": 2008
+        "year": 2024
 
     },
     {
-        "title": "Hombre en llamas ",
-        "rating": 8.7,
-        "tags": ["drama", "accion" , "crimen"],
-        "year": 2004
-
+        "title":"Joker",
+        "rating":8.1,
+        "tags":["crimen","thriller"],
+        "año":2019
     },
     {
-        "title": "Rapido y furioso",
+        "title": "Rapido y furioso 10",
         "rating": 9.3,
         "tags": ["accion", "aventura" , "crimen" ],
-        "year": 2001
+        "year": 2023
 
     },
     {
-        "title": "Sherk",
-        "rating": 9,
+        "title": "Pobres criaturas",
+        "rating": 8,
         "tags": ["animacion", "fantasia" , "aventura" ],
-        "year": 2001
+        "year": 2023
 
     },
     {
@@ -41,17 +40,17 @@
 
     },
     {
-        "title": "El conjuro 2",
-        "rating": 8.6,
-        "tags": [ "terror" , "thriller", "misterio"],
-        "year": 2016
+        "title":"Matrix ",
+        "rating": 10,
+        "tags":["accion","ciencia ficcion"],
+        "año": 1999
 
     },
     {
-        "title": "Toy Story",
-        "rating": 8.6,
+        "title": "Toy Story 4",
+        "rating": 7.8,
         "tags": ["animacion", " infantil" , "fantasia"],
-        "year": 1995
+        "year": 2019
 
     }
 ]
